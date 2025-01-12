@@ -1,1 +1,3 @@
-./data/crsp_a_stock_data.csv
+./.idea
+.env
+.data/.DS_Store
