@@ -1,1 +1,1 @@
-WarrenBuffett Agent: For the greatest fundamental investor of all time
+The 777 Investment Fund: Purely agentic driven multi-strategy firm, and yes, open source. 
